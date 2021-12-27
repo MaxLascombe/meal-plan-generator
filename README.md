@@ -2,13 +2,16 @@
 
 How to install on computer:
 
-`npm link`
-
-`yarn link`
+```
+npm link
+yarn link
+```
 
 How to run:
 
-`mealplan {command} {args}`
+```
+mealplan {command} {args}
+```
 
 Commands:
 
