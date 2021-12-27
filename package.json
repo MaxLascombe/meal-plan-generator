@@ -1,0 +1,4 @@
+{
+ "name": "mealplan",
+ "bin": "./index.js"
+}
